@@ -3,8 +3,7 @@ import Header from './components/Header';
 import Sidebar from './components/Sidebar';
 import MainContent from './components/MainContent';
 import RightSidebar from './components/RightSidebar';
-import './App.css';
-
+import './index.css';
 const App = () => {
   const [darkMode, setDarkMode] = useState(false);
 
